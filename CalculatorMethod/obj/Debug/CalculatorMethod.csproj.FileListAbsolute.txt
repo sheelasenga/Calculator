@@ -1,0 +1,7 @@
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\obj\Debug\CalculatorMethod.csprojAssemblyReference.cache
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\obj\Debug\CalculatorMethod.csproj.CoreCompileInputs.cache
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\bin\Debug\CalculatorMethod.exe.config
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\bin\Debug\CalculatorMethod.exe
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\bin\Debug\CalculatorMethod.pdb
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\obj\Debug\CalculatorMethod.exe
+C:\Users\SSengamalam\Engineering40\C#\Calculator\CalculatorMethod\obj\Debug\CalculatorMethod.pdb
